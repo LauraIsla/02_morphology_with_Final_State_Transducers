@@ -5,7 +5,7 @@ in the verbal roots with this apophony, the diphthong /ue/ appears exclusively w
 
 We implemented three different flexion classes corresponding to the three different conjugations one can find in Spanish.
 The first conjugation is represented by those verbs ending in -ar such as "volar" or "comprar", the second by those ending
-in -ir such as "perder" or "entender", and the third by those ending in -ir such as "dormir" or "morir". Within these
+in -er such as "perder" or "entender", and the third by those ending in -ir such as "dormir" or "morir". Within these
 flexion classes we made the distinction between indicative and subjective verb forms in the present. As advised in the
 exercise sheet, we organised our entries in the lexicon files distinguishing the stems from the lemmas. As an example,
 the verb "trabajar" is written as "trabaja:<>r:<>" in our lexicon file.
